@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Julia 👋
 
-<!--
-**juliasklad/juliasklad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student with a passion for Machine Learning and Deep Learning. I love building innovative solutions to real-world problems.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages**: Python
+- **Data Science & Machine Learning**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### [Project Name](https://github.com/your-username/project-name)
+A brief description of the project. Mention technologies used, what problem it solves, and any important features.
+
+### [Project Name](https://github.com/your-username/project-name)
+Another project with a description. You can include screenshots or even a demo link.
+
+## Education
+- **Master's in Data Science and Society** - Tilburg University
+- **Bachelor's in Quantitative Methods** - SGH Warsaw School of Economics (2023)
+
+## Contact
+- LinkedIn: (www.linkedin.com/in/julia-skład-a93354323)
+- Email: j.sklad@wp.pl
