@@ -3,7 +3,7 @@
 I'm a Data Science student with a passion for Machine Learning and Deep Learning. I love building innovative solutions to real-world problems.
 
 ## Skills
-- **Programming Languages**: Python
+- **Programming Languages**: Python, RStudio, SQL
 - **Data Science & Machine Learning**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib
 
 ## Projects
